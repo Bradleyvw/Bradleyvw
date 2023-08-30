@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/rwvHDxw2/222.jpg)
+![MasterHead](https://i.postimg.cc/HktZ3Rp3/222.jpg)
 <h1 align="center">Hi there 👋, I'm Bradley van Welij</h1>
 <h3 align="center">A passionate 👨‍💻 Front-End Developer | 🧠 Novice Back-End Proficiency from The Netherlands</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
